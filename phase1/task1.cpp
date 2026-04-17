@@ -11,7 +11,7 @@ bool compareProducts(const pair<string, int>& a, const pair<string, int>& b) {
 }
 
 int main() {
-    // 入出力の高速化（競技プログラミング等で有用）
+    
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
 
@@ -19,10 +19,10 @@ int main() {
     // 顧客数Nの読み込み
     if (!(cin >> n)) return 0;
 
-    // 商品名をキー、購入回数を値とするマップ（連想配列）
+    // 商品名をキー、購入回数を値とするマップ
     map<string, int> product_counts;
 
-    // 1. 購入履歴の読み込みと集計
+    // 購入履歴の読み込みと集計
     for (int i = 0; i < n; ++i) {
         int m;
         cin >> m;
@@ -33,24 +33,24 @@ int main() {
         }
     }
 
-    // 2. ソートのためにマップのデータをベクター（配列）に移す
+    // ソートのためにマップのデータをベクターに移す
     vector<pair<string, int>> sorted_products(product_counts.begin(), product_counts.end());
 
-    // 3. カスタム比較関数を用いてベクターをソート
+    // カスタム比較関数を用いてベクターをソート
     sort(sorted_products.begin(), sorted_products.end(), compareProducts);
 
     int q;
-    // クエリ数Qの読み込み
+   
     cin >> q;
 
-    // 4. クエリの処理と出力
+  
     for (int i = 0; i < q; ++i) {
         int a, b;
         cin >> a >> b;
         
-        // 配列のインデックスは0始まりのため、a番目は a-1、b番目は b-1 となる
+        // 配列のインデックスは0始まりのため、a番目は a-1、b番目は b-1 
         for (int j = a - 1; j < b; ++j) {
-            // 購入回数と商品名をスペース区切りで出力
+            
             cout << sorted_products[j].second << " " << sorted_products[j].first << "\n";
         }
     }
