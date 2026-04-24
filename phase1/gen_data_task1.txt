@@ -1,0 +1,14 @@
+9
+5 tea rice water onion carrot
+5 carrot banana onion tea apple
+3 butter onion tea
+9 rice apple water onion bread carrot butter banana potato
+9 bread potato tea apple butter onion banana water rice
+6 onion bread tea butter apple carrot
+8 carrot butter potato onion apple tea rice water
+4 apple tea potato bread
+10 bread potato onion butter rice carrot apple banana water tea
+3
+2 9
+2 3
+2 2
