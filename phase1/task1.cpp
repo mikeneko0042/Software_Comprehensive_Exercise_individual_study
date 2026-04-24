@@ -47,6 +47,9 @@ int main() {
     for (int i = 0; i < q; ++i) {
         int a, b;
         cin >> a >> b;
+
+        // テスト用の区切り線
+        cout << "--- Query: " << a << " to " << b << " ---" << "\n";
         
         // 配列のインデックスは0始まりのため、a番目は a-1、b番目は b-1 
         for (int j = a - 1; j < b; ++j) {
