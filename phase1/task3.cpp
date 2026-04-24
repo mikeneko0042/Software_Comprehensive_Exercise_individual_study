@@ -3,14 +3,12 @@
 using namespace std;
 
 int W, H, N;
-// 店舗のグリッド。障害物を true
+
 vector<vector<bool>> is_obstacle;
 
-// 上下左右への移動を表す配列
 int dx[] = {1, -1, 0, 0};
 int dy[] = {0, 0, 1, -1};
 
-// 指定したスタート地点から、グリッド上のすべてのマスへの最短距離を計算する関数（BFS）
 vector<vector<int>> get_distances(int start_x, int start_y) {
     // 距離を -1で初期化
     vector<vector<int>> dist(W, vector<int>(H, -1));
@@ -23,12 +21,10 @@ vector<vector<int>> get_distances(int start_x, int start_y) {
         auto [cx, cy] = q.front();
         q.pop();
 
-        // 上下左右の4方向を探索
         for (int i = 0; i < 4; ++i) {
             int nx = cx + dx[i];
             int ny = cy + dy[i];
 
-            // グリッドの範囲内かチェック
             if (nx >= 0 && nx < W && ny >= 0 && ny < H) {
                 // 障害物がなく、まだ訪れていないマスなら進む
                 if (!is_obstacle[nx][ny] && dist[nx][ny] == -1) {
@@ -61,7 +57,6 @@ int main() {
         }
     }
 
-    // 商品名からターゲット座標を引くためのマップ
     map<string, pair<int, int>> product_targets;
 
     // 商品と棚の配置を設定
@@ -71,7 +66,6 @@ int main() {
         char d;
         cin >> x >> y >> s >> d;
 
-        // 商品が置かれている棚自体は障害物 
         is_obstacle[x][y] = true;
 
         // 商品を取るための隣接座標を計算
@@ -91,16 +85,14 @@ int main() {
     int Q;
     cin >> Q;
 
-    //顧客ごとのルート距離を計算して出力
     for (int i = 0; i < Q; ++i) {
         int m;
         string p;
         cin >> m >> p; 
 
-        // 目的の商品のターゲット座標を取得
         auto [tx, ty] = product_targets[p];
 
-        // 総移動距離 ＝(入口からターゲットまでの距離)＋(ターゲットから出口までの距離)
+        // 総移動距離 
         int total_dist = dist_from_ent[tx][ty] + dist_from_ext[tx][ty];
         cout << total_dist << "\n";
     }
