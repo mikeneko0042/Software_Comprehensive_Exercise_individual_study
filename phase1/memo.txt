@@ -1,0 +1,1 @@
+g++ gen_data_task1.cpp -o gen1 || ./gen1 > gen_data_task1.txt || g++ task1.cpp || ./a.out < gen_data_task1.txt
