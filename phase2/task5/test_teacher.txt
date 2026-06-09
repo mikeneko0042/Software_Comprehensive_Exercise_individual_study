@@ -1,0 +1,42 @@
+100 100 20
+2 4 aaaaaaanix E
+16 9 aaaaaaaniw E
+41 5 aaaaaaaniv E
+75 12 aaaaaaaniu E
+87 31 aaaaaaanit E
+11 44 aaaaaaanis E
+32 27 aaaaaaanir E
+57 48 aaaaaaaniq E
+90 55 aaaaaaanip E
+66 77 aaaaaaanio E
+23 86 aaaaaaanin E
+4 72 aaaaaaanim E
+48 91 aaaaaaanil E
+79 84 aaaaaaanik E
+34 63 aaaaaaanij E
+69 6 aaaaaaanii E
+14 23 aaaaaaanih E
+51 18 aaaaaaanig E
+93 40 aaaaaaanif E
+8 55 aaaaaaanie E
+20
+2 aaaaaaanie aaaaaaanil
+3 aaaaaaanih aaaaaaanis aaaaaaanif
+4 aaaaaaanin aaaaaaanig aaaaaaaniw aaaaaaanij
+5 aaaaaaanik aaaaaaaniq aaaaaaanie aaaaaaaniv aaaaaaanii
+6 aaaaaaanit aaaaaaanim aaaaaaanip aaaaaaanix aaaaaaanif aaaaaaanir
+7 aaaaaaanig aaaaaaanii aaaaaaanik aaaaaaanim aaaaaaanio aaaaaaaniq aaaaaaanis
+8 aaaaaaanif aaaaaaanih aaaaaaanij aaaaaaanil aaaaaaanin aaaaaaanip aaaaaaanir aaaaaaanit
+9 aaaaaaanix aaaaaaaniw aaaaaaaniv aaaaaaaniu aaaaaaanit aaaaaaanis aaaaaaanir aaaaaaaniq aaaaaaanip
+10 aaaaaaanie aaaaaaanij aaaaaaanio aaaaaaanit aaaaaaanix aaaaaaanis aaaaaaanin aaaaaaanii aaaaaaanif aaaaaaanik
+11 aaaaaaanil aaaaaaaniu aaaaaaanig aaaaaaanip aaaaaaaniw aaaaaaanih aaaaaaaniq aaaaaaanij aaaaaaanis aaaaaaanie aaaaaaanin
+10 aaaaaaanie aaaaaaanig aaaaaaanii aaaaaaanik aaaaaaanim aaaaaaanio aaaaaaaniq aaaaaaanis aaaaaaaniu aaaaaaaniw
+10 aaaaaaanif aaaaaaanih aaaaaaanij aaaaaaanil aaaaaaanin aaaaaaanip aaaaaaanir aaaaaaanit aaaaaaaniv aaaaaaanix
+12 aaaaaaanie aaaaaaanif aaaaaaanig aaaaaaaniv aaaaaaaniw aaaaaaanix aaaaaaanim aaaaaaanin aaaaaaanio aaaaaaanip aaaaaaaniq aaaaaaanir
+13 aaaaaaanii aaaaaaanit aaaaaaanik aaaaaaaniv aaaaaaanim aaaaaaanix aaaaaaanie aaaaaaanip aaaaaaanig aaaaaaanir aaaaaaanij aaaaaaaniu aaaaaaanil
+14 aaaaaaaniw aaaaaaanik aaaaaaanis aaaaaaanig aaaaaaanio aaaaaaanix aaaaaaanil aaaaaaanit aaaaaaanih aaaaaaanip aaaaaaanie aaaaaaanim aaaaaaaniu aaaaaaanii
+15 aaaaaaanij aaaaaaanif aaaaaaanin aaaaaaanir aaaaaaaniv aaaaaaanii aaaaaaanim aaaaaaaniq aaaaaaaniu aaaaaaanie aaaaaaanik aaaaaaanio aaaaaaanis aaaaaaaniw aaaaaaanig
+16 aaaaaaanig aaaaaaanih aaaaaaanii aaaaaaanij aaaaaaanik aaaaaaanil aaaaaaanim aaaaaaanin aaaaaaanio aaaaaaanip aaaaaaaniq aaaaaaanir aaaaaaanis aaaaaaanit aaaaaaaniu aaaaaaaniv
+17 aaaaaaanix aaaaaaanie aaaaaaaniw aaaaaaanif aaaaaaaniv aaaaaaanig aaaaaaaniu aaaaaaanih aaaaaaanit aaaaaaanii aaaaaaanis aaaaaaanij aaaaaaanir aaaaaaanik aaaaaaaniq aaaaaaanil aaaaaaanip
+20 aaaaaaanie aaaaaaanif aaaaaaanig aaaaaaanih aaaaaaanii aaaaaaanij aaaaaaanik aaaaaaanil aaaaaaanim aaaaaaanin aaaaaaanio aaaaaaanip aaaaaaaniq aaaaaaanir aaaaaaanis aaaaaaanit aaaaaaaniu aaaaaaaniv aaaaaaaniw aaaaaaanix
+20 aaaaaaanix aaaaaaaniw aaaaaaaniv aaaaaaaniu aaaaaaanit aaaaaaanis aaaaaaanir aaaaaaaniq aaaaaaanip aaaaaaanio aaaaaaanin aaaaaaanim aaaaaaanil aaaaaaanik aaaaaaanij aaaaaaanii aaaaaaanih aaaaaaanig aaaaaaanif aaaaaaanie

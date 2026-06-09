@@ -1,0 +1,89 @@
+81
+2 potato rice
+8 tea butter bread onion carrot potato rice water
+8 tea butter bread onion carrot potato rice water
+1 carrot
+5 tea butter onion carrot water
+4 bread potato rice water
+1 onion
+5 tea butter bread onion rice
+3 tea bread carrot
+8 tea butter bread onion carrot potato rice water
+6 tea butter bread carrot potato water
+3 tea potato rice
+1 butter
+1 tea
+8 tea butter bread onion carrot potato rice water
+2 onion water
+7 tea butter bread onion potato rice water
+8 tea butter bread onion carrot potato rice water
+7 tea butter onion carrot potato rice water
+1 onion
+6 tea butter bread onion carrot rice
+7 tea butter onion carrot potato rice water
+4 onion carrot potato water
+3 tea butter potato
+5 bread onion potato rice water
+4 bread onion carrot water
+5 tea butter bread carrot rice
+6 tea butter bread onion carrot rice
+1 water
+2 butter bread
+8 tea butter bread onion carrot potato rice water
+4 onion carrot potato water
+7 tea butter bread carrot potato rice water
+2 tea potato
+5 tea onion carrot rice water
+8 tea butter bread onion carrot potato rice water
+2 onion carrot
+2 tea water
+5 butter bread onion potato rice
+6 tea butter bread carrot potato water
+5 tea butter bread carrot potato
+1 water
+2 bread onion
+4 tea butter carrot potato
+4 tea bread onion rice
+2 carrot water
+7 tea butter bread carrot potato rice water
+2 bread water
+4 butter onion potato rice
+6 tea bread carrot potato rice water
+6 tea bread carrot potato rice water
+3 tea carrot rice
+4 onion carrot potato rice
+7 tea butter bread onion carrot potato water
+4 tea bread potato rice
+2 bread carrot
+6 tea butter onion potato rice water
+2 onion rice
+4 butter bread onion rice
+8 tea butter bread onion carrot potato rice water
+7 tea butter bread onion potato rice water
+6 tea butter bread onion rice water
+2 butter potato
+1 butter
+8 tea butter bread onion carrot potato rice water
+6 tea bread carrot potato rice water
+3 butter onion rice
+6 tea bread onion carrot potato water
+3 tea butter bread
+3 tea bread rice
+6 tea butter carrot potato rice water
+2 onion potato
+3 tea bread potato
+6 bread onion carrot potato rice water
+3 tea carrot rice
+8 tea butter bread onion carrot potato rice water
+6 butter bread onion potato rice water
+2 tea water
+6 tea butter onion carrot rice water
+4 tea onion carrot rice
+1 water
+6
+3 28
+26 27
+1 6
+10 17
+8 11
+2 6

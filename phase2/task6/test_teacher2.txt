@@ -1,0 +1,42 @@
+35 22 20
+10 1 aaaaaaanma E
+10 2 aaaaaaanmb W
+10 3 aaaaaaanmc E
+10 4 aaaaaaanmd W
+10 5 aaaaaaanme E
+10 6 aaaaaaanmf W
+10 7 aaaaaaanmg E
+10 8 aaaaaaanmh W
+20 7 aaaaaaanmi W
+20 8 aaaaaaanmj E
+20 9 aaaaaaanmk W
+20 10 aaaaaaanml E
+20 11 aaaaaaanmm W
+20 12 aaaaaaanmn E
+20 13 aaaaaaanmo W
+20 14 aaaaaaanmp E
+20 15 aaaaaaanmq W
+20 16 aaaaaaanmr E
+0 12 aaaaaaanms E
+34 4 aaaaaaanmt W
+20
+3 aaaaaaanma aaaaaaanmi aaaaaaanms
+3 aaaaaaanmh aaaaaaanmr aaaaaaanmt
+5 aaaaaaanmd aaaaaaanme aaaaaaanmf aaaaaaanmo aaaaaaanmp
+6 aaaaaaanms aaaaaaanma aaaaaaanmt aaaaaaanmr aaaaaaanmi aaaaaaanmh
+7 aaaaaaanmc aaaaaaanmj aaaaaaanmq aaaaaaanmb aaaaaaanmk aaaaaaanmp aaaaaaanmt
+8 aaaaaaanma aaaaaaanmc aaaaaaanme aaaaaaanmg aaaaaaanmi aaaaaaanmk aaaaaaanmm aaaaaaanmo
+9 aaaaaaanmb aaaaaaanmd aaaaaaanmf aaaaaaanmh aaaaaaanmj aaaaaaanml aaaaaaanmn aaaaaaanmp aaaaaaanmr
+10 aaaaaaanms aaaaaaanmg aaaaaaanmq aaaaaaanme aaaaaaanmo aaaaaaanmc aaaaaaanmm aaaaaaanma aaaaaaanmk aaaaaaanmt
+7 aaaaaaanma aaaaaaanmd aaaaaaanmg aaaaaaanmj aaaaaaanmm aaaaaaanmp aaaaaaanms
+7 aaaaaaanmb aaaaaaanme aaaaaaanmh aaaaaaanmk aaaaaaanmn aaaaaaanmq aaaaaaanmt
+6 aaaaaaanmc aaaaaaanmf aaaaaaanmi aaaaaaanml aaaaaaanmo aaaaaaanmr
+10 aaaaaaanmf aaaaaaanmg aaaaaaanmh aaaaaaanmi aaaaaaanmj aaaaaaanmk aaaaaaanml aaaaaaanmm aaaaaaanmn aaaaaaanmo
+11 aaaaaaanmt aaaaaaanms aaaaaaanmr aaaaaaanmq aaaaaaanmp aaaaaaanmo aaaaaaanmn aaaaaaanmm aaaaaaanml aaaaaaanmk aaaaaaanmj
+12 aaaaaaanma aaaaaaanmb aaaaaaanmc aaaaaaanmd aaaaaaanmq aaaaaaanmr aaaaaaanms aaaaaaanmt aaaaaaanmi aaaaaaanmj aaaaaaanmk aaaaaaanml
+13 aaaaaaanmd aaaaaaanmm aaaaaaanme aaaaaaanmn aaaaaaanmf aaaaaaanmo aaaaaaanmg aaaaaaanmp aaaaaaanmh aaaaaaanmq aaaaaaanmi aaaaaaanmr aaaaaaanmj
+14 aaaaaaanms aaaaaaanma aaaaaaanmi aaaaaaanmt aaaaaaanmh aaaaaaanmr aaaaaaanmb aaaaaaanmj aaaaaaanmq aaaaaaanmc aaaaaaanmk aaaaaaanmp aaaaaaanmd aaaaaaanml
+15 aaaaaaanma aaaaaaanmf aaaaaaanmk aaaaaaanmp aaaaaaanmb aaaaaaanmg aaaaaaanml aaaaaaanmq aaaaaaanmc aaaaaaanmh aaaaaaanmm aaaaaaanmr aaaaaaanmd aaaaaaanmi aaaaaaanmn
+16 aaaaaaanme aaaaaaanmj aaaaaaanmo aaaaaaanmt aaaaaaanmd aaaaaaanmi aaaaaaanmn aaaaaaanms aaaaaaanmc aaaaaaanmh aaaaaaanmm aaaaaaanmr aaaaaaanmb aaaaaaanmg aaaaaaanml aaaaaaanmq
+20 aaaaaaanma aaaaaaanmb aaaaaaanmc aaaaaaanmd aaaaaaanme aaaaaaanmf aaaaaaanmg aaaaaaanmh aaaaaaanmi aaaaaaanmj aaaaaaanmk aaaaaaanml aaaaaaanmm aaaaaaanmn aaaaaaanmo aaaaaaanmp aaaaaaanmq aaaaaaanmr aaaaaaanms aaaaaaanmt
+20 aaaaaaanmt aaaaaaanms aaaaaaanmr aaaaaaanmq aaaaaaanmp aaaaaaanmo aaaaaaanmn aaaaaaanmm aaaaaaanml aaaaaaanmk aaaaaaanmj aaaaaaanmi aaaaaaanmh aaaaaaanmg aaaaaaanmf aaaaaaanme aaaaaaanmd aaaaaaanmc aaaaaaanmb aaaaaaanma

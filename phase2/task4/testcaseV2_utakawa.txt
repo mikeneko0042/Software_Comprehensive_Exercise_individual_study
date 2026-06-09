@@ -1,0 +1,23 @@
+20
+3 ebb b bac
+2 cff fa
+3 d ab fea
+3 dec dc bb
+4 bec dab c bc
+6 fd cce bad eff eae ae
+6 fa ddd b df ba d
+6 cb ebb cc ea ded d
+6 cc e aa d be de
+3 dbe bdd bad
+7 cb edb c edc bde a c
+7 e a d fb bc eec b
+5 a c e b da
+8 b fee ee e bdc daf a ef
+8 d fbd c b dcb eff ee f
+7 eb dc cb f dc af dec
+4 f b ed c
+8 d a dcf cbe b c db ec
+3 fea acf ba
+2 bcb ea
+1
+1 30

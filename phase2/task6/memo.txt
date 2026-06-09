@@ -1,0 +1,5 @@
+task6_v1の実行結果
+
+test_teacher1.txt -> time: 4.68019 seconds
+test_teacher2.txt -> time: 4.59245 seconds
+---------------------------

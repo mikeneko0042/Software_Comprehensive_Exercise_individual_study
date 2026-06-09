@@ -1,0 +1,42 @@
+100 100 20
+2 2 aaaaaaaaaa S
+6 2 aaaaaaaaab S
+10 2 aaaaaaaaac S
+14 2 aaaaaaaaad S
+18 2 aaaaaaaaae S
+22 2 aaaaaaaaaf S
+26 2 aaaaaaaaag S
+30 2 aaaaaaaaah S
+34 2 aaaaaaaaai S
+38 2 aaaaaaaaaj S
+42 2 aaaaaaaaak S
+46 2 aaaaaaaaal S
+50 2 aaaaaaaaam S
+54 2 aaaaaaaaan S
+58 2 aaaaaaaaao S
+62 2 aaaaaaaaap S
+66 2 aaaaaaaaaq S
+70 2 aaaaaaaaar S
+74 2 aaaaaaaaas S
+78 2 aaaaaaaaat S
+20
+2 aaaaaaaaaa aaaaaaaaat
+2 aaaaaaaaaa aaaaaaaaat
+2 aaaaaaaaaa aaaaaaaaat
+2 aaaaaaaaaa aaaaaaaaat
+2 aaaaaaaaaa aaaaaaaaat
+2 aaaaaaaaaa aaaaaaaaat
+2 aaaaaaaaaa aaaaaaaaat
+2 aaaaaaaaaa aaaaaaaaat
+2 aaaaaaaaaa aaaaaaaaat
+2 aaaaaaaaaa aaaaaaaaat
+2 aaaaaaaaaa aaaaaaaaat
+2 aaaaaaaaaa aaaaaaaaat
+2 aaaaaaaaaa aaaaaaaaat
+2 aaaaaaaaaa aaaaaaaaat
+2 aaaaaaaaaa aaaaaaaaat
+2 aaaaaaaaaa aaaaaaaaat
+2 aaaaaaaaaa aaaaaaaaat
+2 aaaaaaaaaa aaaaaaaaat
+2 aaaaaaaaaa aaaaaaaaat
+2 aaaaaaaaaa aaaaaaaaat

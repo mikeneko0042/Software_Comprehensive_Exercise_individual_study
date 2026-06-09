@@ -1,0 +1,1 @@
+anti_hash_testv2.txtを自分のtask4で実行すると約46秒かかって題意を満たせない。

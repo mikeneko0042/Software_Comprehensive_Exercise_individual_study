@@ -1,0 +1,23 @@
+20
+5 d d b f b
+6 b b f c b a
+3 e f e
+3 d e d
+3 a b b
+2 b a
+5 a c b f e
+8 d a a e d f d f
+5 e d e a c
+4 c e a c
+2 d e
+3 f c c
+7 b d d d a f d
+8 f d b f a b d a
+3 f f f
+8 d c b b b f d e
+8 a b c b f c c f
+7 b a b b a e d
+5 e b b f a
+7 a a f b e a b
+1
+1 30
